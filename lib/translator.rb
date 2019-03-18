@@ -5,7 +5,7 @@ path = YAML.load_file('lib/emoticons.yml')
 def load_library(path)
   # code goes here
   new_hash = {}
-  
+
 
 end
 
